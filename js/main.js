@@ -21,4 +21,4 @@ $(window).on('load', function(){
   btn.addEventListener('mouseup', function(){
     this.className = '';
   });
-})();
+});

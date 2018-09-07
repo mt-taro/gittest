@@ -5,6 +5,7 @@ body{
 }
 
 #btn{
+  -webkit-appearance: none;
   margin: 30px auto 0;
   width: 420px;
   height: 300px;
@@ -21,7 +22,6 @@ body{
   border-top: 40px solid #2790FF;
   border-bottom: 20px solid #EF454A;
   user-select: none;
-  -webkit-appearance: none;
 }
 #btn::before{
   content: "";
