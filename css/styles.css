@@ -18,7 +18,8 @@ body{
   font-weight: bold;
   cursor: pointer;
   opacity: 0.9;
-  box-shadow: 0 20px 0 #EF454A;
+  box-shadow: 0 15px 0 #EF454A,
+              0 30px 0 #2790FF;
   border-top: 50px solid #2790FF;
   user-select: none;
 }
@@ -58,5 +59,6 @@ body{
 
 #btn.pushed{
   margin-top: 36px;
-  box-shadow: 0 10px 0 #EF454A;
+  box-shadow: 0 10px 0 #EF454A,
+              0 20px 0 #2790FF;
 }
