@@ -19,8 +19,9 @@ body{
   opacity: 0.9;
   box-shadow: 0 15px 0 #2790FF;
   border-top: 40px solid #2790FF;
-  border-bottom: 10px solid #EF454A;
+  border-bottom: 20px solid #EF454A;
   user-select: none;
+  -webkit-appearance: none;
 }
 #btn::before{
   content: "";
