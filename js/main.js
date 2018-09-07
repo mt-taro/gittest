@@ -1,4 +1,4 @@
-(function(){
+$(window).on('load', function(){
   'use strict';
 
   var btn = document.getElementById('btn');
